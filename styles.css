@@ -1,0 +1,12 @@
+.wrapper{
+    margin:0 auto;
+    width: 1000px;
+}
+div{
+    border-radius: 30%;
+}
+img{
+    width: 18%;
+    height: 1%;
+    border-radius: 30%;
+}
