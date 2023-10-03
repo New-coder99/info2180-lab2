@@ -9,4 +9,5 @@ img{
     width: 18%;
     height: 1%;
     border-radius: 30%;
+    float:left;
 }
